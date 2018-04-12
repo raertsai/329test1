@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\test\329test\329test\bin\Debug\329test.exe.config
+C:\Users\USER\Desktop\test\329test\329test\bin\Debug\329test.exe
+C:\Users\USER\Desktop\test\329test\329test\bin\Debug\329test.pdb
+C:\Users\USER\Desktop\test\329test\329test\obj\Debug\329test.exe
+C:\Users\USER\Desktop\test\329test\329test\obj\Debug\329test.pdb
